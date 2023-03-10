@@ -3,7 +3,10 @@ rencana mobil
 - rx7
   * 1
   * 2
+  * 3
 - lambo
 - rx8
+  * 1
 - nsx
 - supra
+- pagani

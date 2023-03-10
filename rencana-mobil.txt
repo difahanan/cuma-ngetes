@@ -1,6 +1,8 @@
 rencana mobil
 
 - rx7
+  * 1
+  * 2
 - rx8
 - nsx
 - supra

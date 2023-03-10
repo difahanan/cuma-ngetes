@@ -3,7 +3,9 @@ rencana mobil
 - rx7
   * 1
   * 2
-- lambo
+  * 7
+  * 8
 - rx8
+  * 9
 - nsx
 - supra

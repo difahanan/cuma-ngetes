@@ -4,5 +4,5 @@ NAMA MOBIL
 - innova
 - avanza
 - fortuner
-- pajero
 - etios
+- corolla
